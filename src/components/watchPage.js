@@ -1,7 +1,7 @@
 import React from "react";
 
-const watchPage = () => {
-  return <div>watchPage</div>;
+const WatchPage = () => {
+  return <div>WatchPage</div>;
 };
 
-export default watchPage;
+export default WatchPage;

@@ -20,9 +20,9 @@ const Head = () => {
         />
         <a href="/">
           <img
-            className="h-6 px-2"
-            src={"youtube-logo.png"}
+            className="h-8 mx-2"
             alt="youtube-logo"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png"
           />
         </a>
       </div>
